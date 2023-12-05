@@ -13,9 +13,7 @@ jobs:
 
 
     steps:
-      - name: 'Testing githup action'
-        run: pwd
+      - name:'printing folder contents'
+        run: ls
 
-        - name: 'Testing githup action'
-        run: echo omar
-        
+       
